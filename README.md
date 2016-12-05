@@ -25,6 +25,7 @@ For the Pride and Prejudice, I found the size of 15 is a good fit as the charact
 The same strengths and weakness from minimal are applicable here
 
 #### When you analyzed texts of your own choosing that you're familiar with or interested in, did you glean any insights from this type of analysis that would be harder to glean from a simple readthrough?
+Yes, when reading book you tend to be involved in the story and might miss some details that can be observed at a higher level. For example the characters in the book, Elizabeth Bennet and Jane has stronger edge in the graph than the edge between the main characters Fitzwilliam Darcy and Elizabeth Bennet.
 
 #### Gephi Visualization:
 ![Pride and Prejudice](https://github.com/njetty/B669-Final-Project/blob/master/pnp.png)
